@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="fresh:jar">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="fresh.jar">
+      <element id="module-output" name="publisher-and-subscriber" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/servicemix/bundles/org.apache.servicemix.bundles.jzlib/1.0.7_2/org.apache.servicemix.bundles.jzlib-1.0.7_2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/solacesystems/sol-jcsmp/10.21.0/sol-jcsmp-10.21.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/osgi/org.osgi.annotation/6.0.0/org.osgi.annotation-6.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/solace/solace-messaging-client/1.2.0/solace-messaging-client-1.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
